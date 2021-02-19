@@ -1,0 +1,28 @@
+[
+  {
+    "recipeName": "Rucola Salat",
+    "category": ["Salat"],
+    "priority": 1,
+    "ingredients": [
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Parmesan",
+        "department": "Kühlregal"
+      },
+      {
+        "amount": 1,
+        "unit": "Packung",
+        "name": "Rucula Salat",
+        "department": "Obst- und Gemüse"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "Tomaten",
+        "department": "Obst- und Gemüse"
+      }
+    ],
+    "comment": "Parmesan in hauchdünne Scheiben mit Reibe schaben. Cocktail Tomaten sehen gut darauf aus."
+  },
+]
